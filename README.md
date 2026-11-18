@@ -41,7 +41,6 @@ PSI-Microcontroladores2-Aula07/
     - [ ] Implementar e testar o TIS07
     - [ ] Implementar e testar o TV01
 
-
 - Machado:
     - [ ] Implementar e testar o TU03
     - [ ] Implementar e testar o TU04
@@ -51,3 +50,4 @@ PSI-Microcontroladores2-Aula07/
     - [ ] Implementar e testar o TIS05
     - [ ] Implementar e testar o TIS08
     - [ ] Implementar e testar o TIS09
+    - [ ] Validar o teste TV01 (avaliação por pares)
