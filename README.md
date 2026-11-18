@@ -27,10 +27,6 @@
     - [ ] Implementar e testar o TIS08
     - [ ] Implementar e testar o TIS09
 
-
-- Juntos:
-    - [] Fazer o teste de validação
-
 ### Estrutura do repositório
 
 docs/
