@@ -1,6 +1,30 @@
 # PSI-Microcontroladores2-Aula07
 
-### Tarefas
+### Estrutura do repositório
+
+Estrutura do repositório
+PSI-Microcontroladores2-Aula07/
+├── README.md
+├── docs/
+│   ├── 01-requisitos.md             # requisitos funcionais e não funcionais
+│   ├── 02-arquitetura.md            # diagrama das placas e dos fios
+│   └── 03-projeto-componentes.md    # threads, mutex, máquina de estados
+├── src/
+│   ├── placa_a.c                    # app Zephyr da placa A (Machado)
+│   └── placa_b.c                    # app Zephyr da placa B (Felipe)
+└── testes/
+    ├── plano-de-testes.md           # todos os casos de teste (TU / TIS / TV)
+    ├── 01_testes_unidade/
+    │   └── tu01 … tu07/
+    │       ├── README.md            # caso de teste e resultado
+    │       ├── main.c               # código do teste
+    │       └── evidencias/          # logs, fotos e vídeos
+    ├── 02_testes_integracao_sistema/
+    │   └── tis01 … tis12/           # mesma estrutura de tu01
+    └── 03_testes_validacao/
+        └── tv01/                    # mesma estrutura de tu01
+
+### Outras tarefas
 
 - [ ] Atualizar o README.md
 
@@ -26,14 +50,3 @@
     - [ ] Implementar e testar o TIS05
     - [ ] Implementar e testar o TIS08
     - [ ] Implementar e testar o TIS09
-
-### Estrutura do repositório
-
-docs/
-  01-requisitos.md
-  02-arquitetura.md          (diagrama das placas e dos fios)
-  03-projeto-componentes.md  (threads, mutex, máquina de estados)
-testes/                      (as pastas de cada teste contém tanto o código teste quanto evidências de que ele                           funciona)
-  plano-de-testes.md         (todos os casos T'U/TI/TS')
-placa_felipe/                   (app Zephyr da placa B)
-placa_machado/                    (app Zephyr da placa A)
