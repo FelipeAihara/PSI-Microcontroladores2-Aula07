@@ -1,27 +1,31 @@
 # PSI-Microcontroladores2-Aula07
 
+### Tarefas
+
+- [ ] Atualizar o README.md
+
 ### Divisão de tarefas
 
 - Felipe:
-    - [] Implementar e testar o TU01
-    - [] Implementar e testar o TU02
-    - [] Implementar e testar o TU05
-    - [] Implementar e testar o TIS01
-    - [] Implementar e testar o TIS03
-    - [] Implementar e testar o TIS06
-    - [] Implementar e testar o TIS07
-    - [] Implementar e testar o TV01
+    - [ ] Implementar e testar o TU01
+    - [ ] Implementar e testar o TU02
+    - [ ] Implementar e testar o TU05
+    - [ ] Implementar e testar o TIS01
+    - [ ] Implementar e testar o TIS03
+    - [ ] Implementar e testar o TIS06
+    - [ ] Implementar e testar o TIS07
+    - [ ] Implementar e testar o TV01
 
 
 - Machado:
-    - [] Implementar e testar o TU03
-    - [] Implementar e testar o TU04
-    - [] Implementar e testar o TU06
-    - [] Implementar e testar o TIS02
-    - [] Implementar e testar o TIS04
-    - [] Implementar e testar o TIS05
-    - [] Implementar e testar o TIS08
-    - [] Implementar e testar o TIS09
+    - [ ] Implementar e testar o TU03
+    - [ ] Implementar e testar o TU04
+    - [ ] Implementar e testar o TU06
+    - [ ] Implementar e testar o TIS02
+    - [ ] Implementar e testar o TIS04
+    - [ ] Implementar e testar o TIS05
+    - [ ] Implementar e testar o TIS08
+    - [ ] Implementar e testar o TIS09
 
 
 - Juntos:
