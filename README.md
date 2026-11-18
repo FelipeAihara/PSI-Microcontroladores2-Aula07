@@ -2,7 +2,7 @@
 
 ### Estrutura do repositório
 
-Estrutura do repositório
+```text
 PSI-Microcontroladores2-Aula07/
 ├── README.md
 ├── docs/
@@ -23,6 +23,7 @@ PSI-Microcontroladores2-Aula07/
     │   └── tis01 … tis12/           # mesma estrutura de tu01
     └── 03_testes_validacao/
         └── tv01/                    # mesma estrutura de tu01
+```
 
 ### Outras tarefas
 
